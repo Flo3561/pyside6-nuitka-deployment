@@ -32,10 +32,10 @@ import os
 import sys
 import webbrowser
 
-APP_NAME = 'PySide6 Example'
+APP_NAME = 'PySide6 Deployment Example'
 APP_WEBSITE = 'https://github.com/Erriez/pyside6-nuitka-deployment'
 APP_DEVELOPER = 'Erriez'
-APP_YEAR = 2023
+APP_YEAR = 2024
 APP_LICENSE = 'MIT'
 
 # When packaged to a single file with PyInstaller, running the .exe will unpack
